@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">My Quiz App</string>
+    <string name="full_name">Your full name please!</string>
+    <string name="submit">Submit Answers!</string>
+    <string name="take_quiz">Take the Quiz!</string>
+    <string name="questions">Questions (1 right answer per question):</string>
+    <string name="q1">1. What does the acronym (pixel) refer to?</string>
+    <string name="q2">2. Which programming language was once known as Oak, and then Green?</string>
+    <string name="q3">3. Files with .pl extension are associated with programming language?</string>
+    <string name="q4">4. What does an SSL certificate do?</string>
+    <string name="q5">5. Which intermediate form are Java programs compiled to?</string>
+    <string name="q1_a1">Photo element</string>
+    <string name="q1_a2">Picture information</string>
+    <string name="q1_a3">Picture element</string>
+    <string name="q1_a4">Phosphor location</string>
+    <string name="q2_a1">Java</string>
+    <string name="q2_a2">Pascal</string>
+    <string name="q2_a3">C++</string>
+    <string name="q2_a4">Javascript</string>
+    <string name="q3_a1">Ruby</string>
+    <string name="q3_a2">Python</string>
+    <string name="q3_a3">Perl</string>
+    <string name="q3_a4">PHP</string>
+    <string name="q4_a1">Tells websites about you</string>
+    <string name="q4_a2">Blocks spam from webpages</string>
+    <string name="q4_a3">Tracks your web surfing</string>
+    <string name="q4_a4">Validates website authenticity</string>
+    <string name="q5_a1">C</string>
+    <string name="q5_a2">Macros</string>
+    <string name="q5_a3">Machine Language</string>
+    <string name="q5_a4">Bytecode</string>
+    <string name="takeQuizVerification">Please confirm that you want to take the quiz first!</string>
+    <string name="participant">Participant <xliff:g id="full_name" example="John Smith">%s</xliff:g></string>
+    <string name="score_summary">scored (out of 10): <xliff:g id="score" example="4">%d</xliff:g></string>
+</resources>
